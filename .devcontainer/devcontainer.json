@@ -22,10 +22,7 @@
 				"ms-toolsai.vscode-jupyter-cell-tags",
 				"ms-toolsai.vscode-jupyter-renderers",
 				"ms-toolsai.vscode-jupyter-keymap",
-				"ms-toolsai.vscode-jupyter-cell-tags",
-				"ms-toolsai.vscode-jupyter-renderers",
-				"ms-toolsai.vscode-jupyter-keymap",
-				"ms-toolsai.vscode-jupyter-slideshow",
+				"ms-toolsai.vscode-jupyter-slideshow"
 			]
 		}
 	},

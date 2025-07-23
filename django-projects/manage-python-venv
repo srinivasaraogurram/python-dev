@@ -1,0 +1,10 @@
+python -m venv django-env
+source django-env/bin/activate
+# deactivate
+ python -m pip install Django
+ python --version
+ django-admin --version
+
+ django-admin startproject my_tennis_club
+
+ python manage.py runserver
